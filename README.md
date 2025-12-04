@@ -493,8 +493,8 @@ Yejin / 코테를 위한 알고리즘 / 그리디 / 5문제
         <sub><b>민석</b></sub><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10"/></a><br />
     </td>
     <td align="center">
-      <a href="">
-        <img src="" width="100px;" alt=""/><br />
+      <a href="https://github.com/baiees">
+        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/60ce9e04-58c9-441b-b5ce-bb0808e3714b" />
         <sub><b>훈주</b></sub><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10"/></a><br />
     </td>
     <td align="center">
