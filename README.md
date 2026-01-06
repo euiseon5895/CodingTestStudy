@@ -514,12 +514,7 @@ Yejin / 코테를 위한 알고리즘 / 그리디 / 5문제
       <a href="https://github.com/SSjunn">
         <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2294540a-8fd3-405c-8c6b-6397b17e5672" /><br />
         <sub><b>성준</b></sub><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"/></a><br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/jms0324">
-        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/60c3d8ab-af5c-4dea-941a-c72c2314b864" /><br />
-        <sub><b>민석</b></sub><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"/></a><br />
-    </td>
+    </td> 
     <td align="center">
       <a href="https://github.com/baiees">
         <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/60ce9e04-58c9-441b-b5ce-bb0808e3714b" /><br />
