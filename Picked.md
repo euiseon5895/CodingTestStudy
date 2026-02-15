@@ -1,24 +1,15 @@
 ## 📅진도
 
-### 2026/1월
-
-| Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
-| --- | --- | --- | --- | ----- | --- | --- |
-|     |     |     |     | 1<br>  | 2 <br>   | 3 <br>  |
-| 4 <br>  | 5  <br> | 6 <br> 트리  | 7 <br> 동적계획법 | 8 <br> 백트래킹 | 9<br> 💻✍   | 10 <br> |
-| 11 <br>  | 12 <br> [week01_1](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  | 13 <br> [week01_2](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 14 <br> [week01_3](https://school.programmers.co.kr/learn/courses/30/lessons/92341)| 15 <br> 💻✍🏼   | 16 <br> [week02_1](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 17 <br> [week02_2](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |
-| 18 <br> | 19 <br> [week02_3](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| 20 <br> [week02_4](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | 21 <br> [week02_5](https://school.programmers.co.kr/learn/courses/30/lessons/42839)| 22 <br> 💻✍🏼  | 23 <br>[week03_1](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 24 <br>  |
-| 25 <br> | 26 <br> [week03_2](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  | 27 <br>[week03_3](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | 28 <br> [week03_4](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | 29 <br> 💻✍🏼   | 30 <br>  [week04_1](https://school.programmers.co.kr/learn/courses/30/lessons/12915) <br> [week04_2](https://school.programmers.co.kr/learn/courses/30/lessons/12951)   |  31 <br>   |
-
-
 ### 2026/2월
 
 | Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
 | --- | --- | --- | --- | ----- | --- | --- |
-| 1 <br>  | 2 <br> [week04_3](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 3 <br> [week04_4](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | 4 <br> [week04_5](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 5 <br> | 6 <br>    | 7 <br>  |
-| 8 <br>  | 9  <br> | 10 <br> | 11 <br>   | 12 <br>   | 13 <br> 💻✍   | 14 <br> |
+| 1 <br>  | 2 <br> [week04_3](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 3 <br> [week04_4](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | 4 <br> [week04_5](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 5 <br>💻✍ | 6 <br>  [week05_1](https://school.programmers.co.kr/learn/courses/30/lessons/42579) <br> [week05_2](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | 7 <br> [week05_3](https://school.programmers.co.kr/learn/courses/30/lessons/42747) <br> [week05_4](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |
+| 8 <br>  | 9  <br> [week05_5](https://school.programmers.co.kr/learn/courses/30/lessons/84512)  <br> [week05_6](https://school.programmers.co.kr/learn/courses/30/lessons/133027) | 10 <br> [week05_7](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 11 <br>   | 12 <br> 💻✍ | 13 <br>    | 14 <br> |
 | 15 <br> | 16 <br> | 17 <br> | 18 <br> | 19 <br> 💻✍🏼   | 20 <br>  | 21 <br>  |
 | 22 <br> | 23 <br> | 24 <br> | 25 <br> | 26 <br> 💻✍🏼  | 27 <br | 28 <br>  |
+
+---
 
 
 ### 2025/12월
@@ -30,6 +21,17 @@
 | 14 <br>  | 15 <br> 정렬 | 16 <br> 완전탐색| 17 <br> 💻✍🏼 | 18 <br> 그리디  | 19 <br> 수학 | 20 <br> |
 | 21 <br> | 22 <br> | 23 <br> | 24 <br>💻✍🏼| 25<br>조합순열  | 26 <br>DFS | 27 <br> BFS |
 | 28 <br> | 29 <br>이진탐색 | 30 <br>다익스트라 | 31 <br>💻✍🏼  |       |     |     |
+
+
+### 2026/1월
+
+| Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
+| --- | --- | --- | --- | ----- | --- | --- |
+|     |     |     |     | 1<br>  | 2 <br>   | 3 <br>  |
+| 4 <br>  | 5  <br> | 6 <br> 트리  | 7 <br> 동적계획법 | 8 <br> 백트래킹 | 9<br> 💻✍   | 10 <br> |
+| 11 <br>  | 12 <br> [week01_1](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  | 13 <br> [week01_2](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 14 <br> [week01_3](https://school.programmers.co.kr/learn/courses/30/lessons/92341)| 15 <br> 💻✍🏼   | 16 <br> [week02_1](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 17 <br> [week02_2](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |
+| 18 <br> | 19 <br> [week02_3](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| 20 <br> [week02_4](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | 21 <br> [week02_5](https://school.programmers.co.kr/learn/courses/30/lessons/42839)| 22 <br> 💻✍🏼  | 23 <br>[week03_1](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 24 <br>  |
+| 25 <br> | 26 <br> [week03_2](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  | 27 <br>[week03_3](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | 28 <br> [week03_4](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | 29 <br> 💻✍🏼   | 30 <br>  [week04_1](https://school.programmers.co.kr/learn/courses/30/lessons/12915) <br> [week04_2](https://school.programmers.co.kr/learn/courses/30/lessons/12951)   |  31 <br>   
 
 
 ---
